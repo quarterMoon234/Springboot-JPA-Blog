@@ -8,7 +8,8 @@ public class BlogControllerTest {
 	
 	@GetMapping("/test/hello")
 	public String Hello() {
-	return "<h1>Hello Spring Boot</h1>";
+	return "<h1>Hello sang234</h1>";
+	
 	}
 
 }
